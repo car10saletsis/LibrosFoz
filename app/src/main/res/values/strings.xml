@@ -1,0 +1,21 @@
+<resources>
+
+    <!--SharedPreferences-->
+    <string name="name_file_preferences">com.example.librosfoz.sharedprederences</string>
+    <!--keys de API-->
+    <string name="key_token">plain-text-token</string>
+
+    <!--Métdos de API-->
+    <string name="api_login">login</string>
+    <string name="api_libros">books</string>
+    <string name="api_registro">register</string>
+
+    <!--Errores-->
+    <string name="error_internet">Ups! no estas conectado a internet</string>
+    <string name="campo_vacio">Campo vacio</string>
+    <string name="error_correo">Correo no valido</string>
+    <string name="api_logout">logout</string>
+
+
+    <string name="app_name">LibrosFoz</string>
+</resources>
